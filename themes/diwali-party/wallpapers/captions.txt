@@ -1,0 +1,4 @@
+# wallpaper_captions: "<file><TAB><name>", one per line (themes/README.md)
+01-diwali-lounge.jpg	Diwali Diya Lounge · Warm Golden Bokeh, CC0
+02-golden-lanterns.jpg	Floating Sky Lanterns · Festive Evening, CC0
+03-festive-midnight.jpg	Midnight Candlelight & Amber Glow · Diwali Party, CC0
